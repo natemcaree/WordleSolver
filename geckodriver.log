@@ -1,0 +1,833 @@
+1648603331697	geckodriver	INFO	Listening on 127.0.0.1:64070
+1648603334762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64071" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofile3aL32O"
+1648603335038	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofile3aL32O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64071/devtools/browser/892312de-ab52-4d7b-af05-c31d37821e4f
+1648603337135	Marionette	INFO	Listening on port 64078
+1648603337444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648603349822	Marionette	INFO	Stopped listening on port 64078
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648603369506	geckodriver	INFO	Listening on 127.0.0.1:64188
+1648603372575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64189" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileORpwun"
+1648603372845	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileORpwun\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64189/devtools/browser/e1673848-d8c4-414b-89b1-92246416f4ba
+1648603374906	Marionette	INFO	Listening on port 64194
+1648603375259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648603397666	Marionette	INFO	Stopped listening on port 64194
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648603502553	geckodriver	INFO	Listening on 127.0.0.1:64402
+1648603505622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64403" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilejnT8LE"
+1648603505891	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilejnT8LE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64403/devtools/browser/08c0819b-98e1-4b61-80ce-345922ccfdaa
+1648603507921	Marionette	INFO	Listening on port 64408
+1648603508295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648603523597	Marionette	INFO	Stopped listening on port 64408
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648603524951	geckodriver	INFO	Listening on 127.0.0.1:64517
+1648603528011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64518" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileY8d41B"
+1648603528268	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileY8d41B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64518/devtools/browser/ea14f310-73b8-4092-9397-00d1f7e4fd28
+1648603530212	Marionette	INFO	Listening on port 64523
+1648603530693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648603548064	Marionette	INFO	Stopped listening on port 64523
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648603550513	geckodriver	INFO	Listening on 127.0.0.1:64638
+1648603553586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64639" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileOmiwdW"
+1648603553855	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileOmiwdW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64639/devtools/browser/7921214a-394f-41d7-b8a6-d454467efb52
+1648603555935	Marionette	INFO	Listening on port 64648
+1648603556260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648603677093	Marionette	INFO	Stopped listening on port 64648
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofile9V8Y5C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64795/devtools/browser/e0a4b40e-7d5e-465e-907a-20f20f933747
+1648603613204	Marionette	INFO	Listening on port 64800
+1648603613504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648603680607	Marionette	INFO	Stopped listening on port 64800
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648603693816	geckodriver	INFO	Listening on 127.0.0.1:64938
+1648603696880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64939" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileBhwLg7"
+1648603697158	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileBhwLg7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64939/devtools/browser/1b8af26e-800a-40e5-bff7-fbf8c357e605
+1648603699181	Marionette	INFO	Listening on port 64945
+1648603699555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648603768192	Marionette	INFO	Stopped listening on port 64945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648603777404	geckodriver	INFO	Listening on 127.0.0.1:65065
+1648603780465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65066" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilevpx7kn"
+1648603780724	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilevpx7kn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65066/devtools/browser/98f2b879-fd08-42e8-a2b7-1ea3f76690dc
+1648603782878	Marionette	INFO	Listening on port 65071
+1648603783142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648603892522	Marionette	INFO	Stopped listening on port 65071
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648603891350	Marionette	INFO	Stopped listening on port 65203
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648603895246	geckodriver	INFO	Listening on 127.0.0.1:65311
+1648603898308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65312" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileJRSXPt"
+1648603898595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileJRSXPt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65312/devtools/browser/12d1d112-6ff2-417a-a364-588a0edefd8f
+1648603900660	Marionette	INFO	Listening on port 65322
+1648603900978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648604023727	Marionette	INFO	Stopped listening on port 65322
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648604023173	Marionette	INFO	Stopped listening on port 65445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648604108734	geckodriver	INFO	Listening on 127.0.0.1:49324
+1648604111802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49325" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilek0AYpo"
+1648604112076	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilek0AYpo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49325/devtools/browser/c121e99c-a169-44a8-b1a8-f223944dca10
+1648604114008	Marionette	INFO	Listening on port 49330
+1648604114476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648604119074	Marionette	INFO	Stopped listening on port 49330
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648604160277	geckodriver	INFO	Listening on 127.0.0.1:49474
+1648604163335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49475" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofile99uvY6"
+1648604163597	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofile99uvY6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49475/devtools/browser/bac693cb-ef9d-409f-ad4f-b7a8d170772b
+1648604165696	Marionette	INFO	Listening on port 49480
+1648604166014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648604242983	Marionette	INFO	Stopped listening on port 49480
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ will be removed. Please use RENDERER.
+1648604241888	Marionette	INFO	Stopped listening on port 49607
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648604273084	geckodriver	INFO	Listening on 127.0.0.1:49725
+1648604276154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49726" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileKr617C"
+1648604276426	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileKr617C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49726/devtools/browser/c2a0a338-d50a-418e-805c-381b57ed9611
+1648604278462	Marionette	INFO	Listening on port 49731
+1648604278831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648606608746	Marionette	INFO	Stopped listening on port 49731
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+lsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648604370911	Marionette	INFO	Stopped listening on port 49848
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 26992, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1648604811862	geckodriver	INFO	Listening on 127.0.0.1:53587
+1648604814931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53588" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilesT2BtJ"
+1648604815208	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilesT2BtJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53588/devtools/browser/db4f2ba1-deb6-49d8-b624-3f864e1ca14e
+1648604817307	Marionette	INFO	Listening on port 53593
+1648604817607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648604976516	Marionette	INFO	Stopped listening on port 53593
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648604984985	geckodriver	INFO	Listening on 127.0.0.1:61739
+1648604988060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61740" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileyyrSNd"
+1648604988344	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileyyrSNd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61740/devtools/browser/78335f72-c33d-4326-8086-1532eecd1541
+1648604990434	Marionette	INFO	Listening on port 61745
+1648604990732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://addons.mozilla.org"
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit {c8476e35-1a52-831c-487c-86db836cf38c}.274877907147
+1648605014772	Marionette	INFO	Stopped listening on port 61745
+1648605016274	geckodriver	INFO	Listening on 127.0.0.1:61854
+1648605019336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61855" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileTNBFse"
+1648605019608	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileTNBFse\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61855/devtools/browser/6e1f0efb-f3a4-44dd-a93f-8eeeb285882d
+1648605021787	Marionette	INFO	Listening on port 61860
+1648605022006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648605043682	Marionette	INFO	Stopped listening on port 61860
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648605193514	geckodriver	INFO	Listening on 127.0.0.1:55162
+1648605196579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55163" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileBIGyh2"
+1648605196854	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileBIGyh2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55163/devtools/browser/cd58518c-c489-4590-88c7-f41ac9b7534e
+1648605198923	Marionette	INFO	Listening on port 55170
+1648605199255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648605238489	Marionette	INFO	Stopped listening on port 55170
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648605239992	geckodriver	INFO	Listening on 127.0.0.1:55290
+1648605243052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55291" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofile8Xb2bW"
+1648605243363	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofile8Xb2bW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55291/devtools/browser/89bbf90e-029e-49e9-8225-5006a971a1b2
+1648605245446	Marionette	INFO	Listening on port 55296
+1648605245722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648605405168	Marionette	INFO	Stopped listening on port 55296
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgn1648605406688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55538" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofiledZZQj7"
+1648605406967	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofiledZZQj7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55538/devtools/browser/1d256655-13d2-4df1-9ff4-ec8ceee64c58
+1648605408999	Marionette	INFO	Listening on port 55545
+1648605409365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648605425141	Marionette	INFO	Stopped listening on port 55545
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55647" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilerwY9p6"
+1648605419020	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilerwY9p6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55647/devtools/browser/6e7a44aa-8c3f-46dd-8c13-9cdfc79f9c88
+1648605421083	Marionette	INFO	Listening on port 55653
+1648605421432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648605424337	Marionette	INFO	Stopped listening on port 55653
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648605518409	geckodriver	INFO	Listening on 127.0.0.1:55802
+1648605521475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55803" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilepPm5P7"
+1648605521738	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilepPm5P7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55803/devtools/browser/e396b7da-8e69-4c8a-91e6-6bef02943979
+1648605523828	Marionette	INFO	Listening on port 55808
+1648605524153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648605531556	Marionette	INFO	Stopped listening on port 55808
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648605541083	geckodriver	INFO	Listening on 127.0.0.1:55916
+1648605544141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55917" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilelcRGsv"
+1648605544413	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilelcRGsv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55917/devtools/browser/6ff45347-e909-47df-a7bb-8ad0b8490681
+1648605546518	Marionette	INFO	Listening on port 55922
+1648605546814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648605691463	Marionette	INFO	Stopped listening on port 55922
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648605690623	Marionette	INFO	Stopped listening on port 56196
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648605733169	geckodriver	INFO	Listening on 127.0.0.1:56365
+1648605736241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56366" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileN04CnD"
+1648605736529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileN04CnD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56366/devtools/browser/6813cade-5d02-4ebd-8edc-25130891742f
+1648605738607	Marionette	INFO	Listening on port 56372
+1648605738908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648605755646	Marionette	INFO	Stopped listening on port 56372
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648606093534	geckodriver	INFO	Listening on 127.0.0.1:51513
+1648606096594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51514" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileItBF7W"
+1648606096866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileItBF7W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51514/devtools/browser/2580c049-14b1-453b-a5ed-2ba758daecd9
+1648606098982	Marionette	INFO	Listening on port 51520
+1648606099260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648606607707	Marionette	INFO	Stopped listening on port 51520
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emp\\rust_mozprofileFOK9ip"
+1648606180628	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileFOK9ip\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62661/devtools/browser/ad46f7fa-16e0-4f83-9795-983163b84e71
+1648606182671	Marionette	INFO	Listening on port 62666
+1648606183011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648606606438	Marionette	INFO	Stopped listening on port 62666
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileG45yYL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62772/devtools/browser/145c0ec8-a0cf-4b23-9274-fbe20905e68c
+1648606195651	Marionette	INFO	Listening on port 62778
+1648606195899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648606605377	Marionette	INFO	Stopped listening on port 62778
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilepH2rLF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62892/devtools/browser/18ecb448-2d81-40c3-8854-03dde73f9ace
+1648606231942	Marionette	INFO	Listening on port 62897
+1648606232187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648606603922	Marionette	INFO	Stopped listening on port 62897
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52175" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileUZNIbx"
+1648606497721	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileUZNIbx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52175/devtools/browser/cb01ed76-cbae-482a-b3b9-edd24039c086
+1648606499798	Marionette	INFO	Listening on port 52180
+1648606500112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648606602106	Marionette	INFO	Stopped listening on port 52180
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648606882644	geckodriver	INFO	Listening on 127.0.0.1:52101
+1648606885704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52102" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilexoQfF1"
+1648606886030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilexoQfF1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52102/devtools/browser/15f49ff3-0505-4bb6-a8c7-f4375bba74ef
+1648606888023	Marionette	INFO	Listening on port 52107
+1648606888377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483673/layout25, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648607743122	Marionette	INFO	Stopped listening on port 52107
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileMQboYT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52402/devtools/browser/b129c078-a81c-41b7-9a0e-cb839c753fb6
+1648607043996	Marionette	INFO	Listening on port 52407
+1648607044355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source141 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source142 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source143 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source144 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source145 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source146 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source147 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source148 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source149 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source150 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source151 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source152 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source153 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source154 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source155 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source156 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source157 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source158 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source159 does not exist"
+console.warn:JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648609338476	Marionette	INFO	Stopped listening on port 52543
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e168 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source169 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source170 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source171 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source172 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal2147483650/source173 does not exist"
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648609628030	Marionette	INFO	Stopped listening on port 52407
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilevUvaF6"
+1648607358918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilevUvaF6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52978/devtools/browser/d25f90c2-ef65-49d3-b705-d99e3cca09a4
+1648607360959	Marionette	INFO	Listening on port 52984
+1648607361333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648609339211	Marionette	INFO	Stopped listening on port 52984
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileDvwMX8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53113/devtools/browser/37d8769c-bef8-42f9-a625-86cefb0a9ec3
+1648607413527	Marionette	INFO	Listening on port 53118
+1648607413900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648607423932	Marionette	INFO	Stopped listening on port 53118
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648607445998	geckodriver	INFO	Listening on 127.0.0.1:53253
+1648607449054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53254" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileI1PWFL"
+1648607449312	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileI1PWFL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53254/devtools/browser/108d8a75-9049-4955-8697-99521183e44e
+1648607451407	Marionette	INFO	Listening on port 53259
+1648607451729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648607461308	Marionette	INFO	Stopped listening on port 53259
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648607491483	geckodriver	INFO	Listening on 127.0.0.1:53380
+1648607494550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53381" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofile2ojc51"
+1648607494826	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofile2ojc51\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53381/devtools/browser/7bec8d52-0e47-4add-831a-3f7a2ee25f5b
+1648607496827	Marionette	INFO	Listening on port 53387
+1648607497229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648607551273	Marionette	INFO	Stopped listening on port 53387
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 22072, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648607668045	geckodriver	INFO	Listening on 127.0.0.1:53601
+1648607671103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53602" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileyvw1Rz"
+1648607671402	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileyvw1Rz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53602/devtools/browser/829fd8a4-3da1-470b-8cd7-4ed9b6ab8b24
+1648607673635	Marionette	INFO	Listening on port 53609
+1648607673782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648607745638	Marionette	INFO	Stopped listening on port 53609
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648608395910	geckodriver	INFO	Listening on 127.0.0.1:53030
+1648608398967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53031" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilewfuKfQ"
+1648608399233	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilewfuKfQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53031/devtools/browser/a470155b-86f3-47b8-9a64-6b3ecf78f2fe
+1648608401341	Marionette	INFO	Listening on port 53037
+1648608401645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648608417986	Marionette	INFO	Stopped listening on port 53037
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648608419941	geckodriver	INFO	Listening on 127.0.0.1:53150
+1648608423000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53151" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileXGL0cC"
+1648608423272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileXGL0cC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53151/devtools/browser/69d4d36b-2814-4d16-a441-f3c13636f18e
+1648608425266	Marionette	INFO	Listening on port 53157
+1648608425672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:450:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:414:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2132:35
+addAllSources@resource://devtools/server/actors/thread.js:1487:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648608552482	Marionette	INFO	Stopped listening on port 53157
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 25788, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1648609078678	geckodriver	INFO	Listening on 127.0.0.1:56833
+1648609081723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56834" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileu6dOY4"
+1648609081990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileu6dOY4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56834/devtools/browser/00cdadef-5e37-4314-bcb9-eefee993ae04
+1648609084099	Marionette	INFO	Listening on port 56839
+1648609084401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648609124885	Marionette	INFO	Stopped listening on port 56839
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648609145785	geckodriver	INFO	Listening on 127.0.0.1:56963
+1648609148845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56964" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileTqwCBj"
+1648609149100	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileTqwCBj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56964/devtools/browser/5e14df72-db1e-4497-b49a-7a2b89bf4542
+1648609151032	Marionette	INFO	Listening on port 56970
+1648609151519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648609203203	Marionette	INFO	Stopped listening on port 56970
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 26600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+8609181529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilegUOOC1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57087/devtools/browser/baa1c747-1335-45de-983b-7d84939ca89a
+1648609183598	Marionette	INFO	Listening on port 57092
+1648609183937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648609194448	Marionette	INFO	Stopped listening on port 57092
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 28976, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1648609414837	geckodriver	INFO	Listening on 127.0.0.1:57266
+1648609417898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57267" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilej2B6vT"
+1648609418175	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilej2B6vT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57267/devtools/browser/422e9342-a993-471d-9ba6-846ffa10fcd4
+1648609420240	Marionette	INFO	Listening on port 57275
+1648609420575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648609486257	Marionette	INFO	Stopped listening on port 57275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648609585241	geckodriver	INFO	Listening on 127.0.0.1:57427
+1648609588307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57428" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilewfiYiu"
+1648609588582	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilewfiYiu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57428/devtools/browser/2da7ce7d-dd1e-45ef-8f8b-f2fe2e3f8c9e
+1648609590714	Marionette	INFO	Listening on port 57433
+1648609590984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648613718823	Marionette	INFO	Stopped listening on port 57433
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+1648609672103	Marionette	INFO	Listening on port 57714
+1648609672604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648609693419	Marionette	INFO	Stopped listening on port 57714
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 30556, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1648609695226	geckodriver	INFO	Listening on 127.0.0.1:57840
+1648609698284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57841" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileg66BgP"
+1648609698552	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileg66BgP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57841/devtools/browser/27161697-f6ff-4a91-93ff-20c205cd4105
+1648609700582	Marionette	INFO	Listening on port 57848
+1648609700968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648609738757	Marionette	INFO	Stopped listening on port 57848
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 28928, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1648609773254	geckodriver	INFO	Listening on 127.0.0.1:57976
+1648609776322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57977" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilemEp2J5"
+1648609776578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilemEp2J5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57977/devtools/browser/d1b6ada6-2257-4ec9-ad66-432c5f953135
+1648609778512	Marionette	INFO	Listening on port 57982
+1648609778997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWin1648613716937	Marionette	INFO	Stopped listening on port 58130
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 25676, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+8609930221	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileHczJRv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58250/devtools/browser/1e0beb1d-be44-4a82-a69f-3d393cd17879
+1648609932180	Marionette	INFO	Listening on port 58255
+1648609932646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648613715171	Marionette	INFO	Stopped listening on port 58255
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58392" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofile7pqXpd"
+1648610003111	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofile7pqXpd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58392/devtools/browser/e9cc3ce7-dd57-47fa-a1d1-3268353098e8
+1648610005159	Marionette	INFO	Listening on port 58397
+1648610005521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648613713379	Marionette	INFO	Stopped listening on port 58397
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58518" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilevrAjVq"
+1648610049203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilevrAjVq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58518/devtools/browser/4e25e256-9829-404e-8436-68638afc46b0
+1648610051248	Marionette	INFO	Listening on port 58523
+1648610051622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648613709311	Marionette	INFO	Stopped listening on port 58523
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58649" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileUVsW8W"
+1648610118837	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofileUVsW8W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58649/devtools/browser/d42df10f-ccce-4b74-9b90-10c3c90d4aad
+1648610120840	Marionette	INFO	Listening on port 58654
+1648610121257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648610139606	Marionette	INFO	Stopped listening on port 58654
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 27452, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1648610545092	geckodriver	INFO	Listening on 127.0.0.1:65367
+1648610548150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65368" "-no-remote" "-profile" "C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilef26Dm7"
+1648610548439	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tyrael\\AppData\\Local\\Temp\\rust_mozprofilef26Dm7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65368/devtools/browser/73831811-174d-4207-9ec8-5ea414d78a45
+1648610550474	Marionette	INFO	Listening on port 65375
+1648610550827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dd.nytimes.com/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648613707401	Marionette	INFO	Stopped listening on port 65375
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 29456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
